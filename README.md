@@ -13,13 +13,13 @@
 
 ## STEP ( FOR TERMUX )
 
-1. ```
+```
 termux-setup-storage
 ```
-2. ```
+```
 apt update
 ```
-3. ```
+```
 apt upgrade
 ```
 
