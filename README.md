@@ -8,11 +8,16 @@
 
 
 
-## REQUIRED MODULES
+## REQUIRED LIBRARIES
 
 ```
 pip install rich
-
+```
+```
+pip install requests
+```
+```
+pip install psutil
 ```
 
 
