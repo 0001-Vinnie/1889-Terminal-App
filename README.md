@@ -8,6 +8,15 @@
 
 
 
+## REQUIRED MODULES
+
+```
+pip install rich
+
+```
+
+
+
 ## FEATURES 
 
 *Cooming Soon*
