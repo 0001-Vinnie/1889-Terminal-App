@@ -11,7 +11,7 @@
 
 
 
-## STEP ( FOR TERMUX )
+### STEP ( FOR TERMUX )
 
 ```
 termux-setup-storage
@@ -25,7 +25,7 @@ apt upgrade
 
 
 
-## STEP ( REQUIRED LIBRARIES )
+### STEP ( REQUIRED LIBRARIES )
 
 ```
 pip install rich
