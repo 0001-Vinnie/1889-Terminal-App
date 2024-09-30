@@ -36,6 +36,9 @@ pip install requests
 ```
 pip install psutil
 ```
+```
+pip install tqdm
+```
 
 
 
