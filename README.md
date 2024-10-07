@@ -44,8 +44,14 @@ pip install tqdm
 
 ## FEATURES 
 
-Cooming Soon
+### FOR SECURITY
+Coming Soon
 
+### FOR 1889 HACKER CLASS 
+Coming Soon
+
+### FOR 1889 STALKER CLASS
+Coming Soon
 
 
 ## ✠ CONTACT US 
